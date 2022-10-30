@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @dorra-abdelwahed
-- 👀 I'm interested in mobile app development (iOS developer)
-- 🌱 I’m currently learning react native 
+- 👋 Hi, I’m @dorra-abdelwahed, i'm iOS developer
+- 👀 I'm interested in mobile app development 
+
+
+Skills
+
+- 👨‍💻 Swift, UIKit, SwiftUI, React Native
+- ⚙️ MVC, MVVM , MVVM-C, RxSwift, Combine
+- ⚙️ Knowledge in Unit Testing
+- ⚙️ Git, GitFlow, CI/CD
+- 👨‍💻 Firebase
+
+
+Contact
 - 📫 https://www.linkedin.com/in/dorra-ben-abdelwahed-662178147/
 - 👨‍💻 https://dorra-abdelwahed.github.io/dorraAbdelwahed.github.io/
 
