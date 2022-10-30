@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dorra-abdelwahed
-- 👀 I'm interested in mobile app development
+- 👀 I'm interested in mobile app development (iOS developer)
 - 🌱 I’m currently learning react native 
 - 📫 https://www.linkedin.com/in/dorra-ben-abdelwahed-662178147/
 
